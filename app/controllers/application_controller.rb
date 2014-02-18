@@ -3,5 +3,8 @@ class ApplicationController < ActionController::Base
 
   def index
     puts 'this is for test'
+    puts 'this is for test'
+    puts 'this is for test'
+    puts 'this is for test 4'
   end
 end
