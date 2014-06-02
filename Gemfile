@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '2.1.1'
+ruby '1.9.3-p448'
 
 gem 'rails', '3.2.13'
 
